@@ -11,7 +11,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-
         int[] arr = generateRandomArray();
         /* Задание 1.
         Первым делом бухгалтеры попросили посчитать сумму всех выплат за месяц.
@@ -67,4 +66,5 @@ public class Main {
         }
 
     }
+
 }
